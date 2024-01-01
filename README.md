@@ -2,7 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0202&random=false&width=435&lines=Shahil+Kataria+;MERN+STACK+DEVELOPER)](https://git.io/typing-svg)
 ![images](https://github.com/ShAhilK2/shAhilK2/assets/80386008/2be3e7e8-f68d-41ae-9a8e-a302a4a19ff6)
 
-🔭 I'm currently working on Frontend and Backend projects<br>🤝 I’m looking to collaborate on Full Stackprojects<br>🌱 I'm currently learning MERN Stack Development and Data Structures and Algorithm<br>💬 Ask me about React, Express and Node JS<br>📧 How to reach me<br>shahilkataria852002@gmail.com
+🚀 Working on Frontend & Backend projects  
+🤝 Open to Full Stack collaborations  
+🌱 Learning MERN Stack & Data Structures  
+💬 Ask me about React, Express, Node.js  
+📧 Reach out: shahilkataria852002@gmail.com  
+  
+🔗 [LinkedIn](www.linkedin.com/in/shahil-kataria)
 
 
 ## 🌐 Socials:
