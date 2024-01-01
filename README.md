@@ -8,7 +8,7 @@
 💬 Ask me about React, Express, Node.js  
 📧 Reach out: shahilkataria852002@gmail.com  
   
-🔗 [LinkedIn](www.linkedin.com/in/shahil-kataria)
+🔗 [LinkedIn](https://www.linkedin.com/in/shahil-kataria/)
 
 
 ## 🌐 Socials:
